@@ -1,6 +1,7 @@
 # Unity-Portfolio
 An ongoing sample of my knowledge of Unity
-The games is an ARPG style game along the vein of Diablo
+
+The current game i am creating is an ARPG style game along the vein of Diablo3 etc.
 I am not an artist but am trying to find one to help me add details.
 There are Player and NPC protoypes in C#. The player is now moving around as you click. 
 The NPC has logic for "patroling" via waypoints. He will also aggro when the player comes to close 
